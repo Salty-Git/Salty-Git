@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I am currently focusing on **Computer Aided Medical Procedures** (Deep Learning, Medical AR / AI) while wrapping up impactful work in the energy sector.
 

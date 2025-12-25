@@ -50,7 +50,7 @@ Personal
 - **Key Achievement:** Architected and built an automation tool that was adopted by my immediate team and later expanded to other departments to streamline data engineering processes.
 
 **Time Series Forecasting @ E.ON**
-> *TimeSeries Specialist (Ending soon)*
+> *Working Student (Ending soon)*
 - Co-developed a versatile forecasting engine using `sktime`.
 - **Key Achievement:** The engine handles standard, hierarchical, and clustering-based forecasting scenarios, now utilized across the company for predictive analysis.
 

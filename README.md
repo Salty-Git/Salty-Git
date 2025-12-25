@@ -1,17 +1,3 @@
-<!--
-**Salty-Git/Salty-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   <h1>Hi there, I'm Juli! 👋</h1>
   <h3>Data Scientist | Medical AI Researcher | Game Dev</h3>
@@ -29,16 +15,18 @@ Here are some ideas to get you started:
 
 I am currently focusing on **Computer Aided Medical Procedures** (Deep Learning, Medical AR / AI) while wrapping up impactful work in the energy sector.
 
+#### 🔬 Academic & Professional Focus
 - 🔭 **Currently studying:** Machine Learning Topics (mostly Deep Learning) / AI in Medicine / Medical AR.
 - 💼 **Professional Experience:** Data Engineering at **MTU** & Data Science at **E.ON** (focus: Time Series Forecasting).
-- 🎮 **Side Quests:** I have a background in **Informatics Game Engineering** and like to participate in Game Jams.
+- 🎮 **Side Quests:** I have a background in **Informatics Game Engineering**.
+  - Check out my Game Jam entries: [**Desk Off**](https://pydes.itch.io/desk-off) & [**Lumi's Constellations**](https://pydes.itch.io/lumis-constellations).
+- 🧱 **Philosophy:** I like building things that are functional, scalable, and intuitive.
 
-Personal
-- 🐕 I have a Dog
-- 🍵 I like tea and the occasional coffee
-- 📺 Into anime -- There are too many good ones to pick a favorite
+#### ⚡ Personal & Hobbies
+- 🐕 I have a Dog.
+- 🍵 I like tea and the occasional coffee.
+- 📺 Into anime -- There are too many good ones to pick a favorite.
 - 🗾 Soon&trade; going to Japan to study abroad!
-- 🧱 I like building things that are both functional and also scalable and intuitive.
 
 ---
 

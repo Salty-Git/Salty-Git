@@ -15,14 +15,14 @@
 
 I am currently focusing on **Computer Aided Medical Procedures** (Deep Learning, Medical AR / AI) while wrapping up impactful work in the energy sector.
 
-#### 🔬 Academic & Professional Focus
+#### Academic & Professional Focus
 - 🔭 **Currently studying:** Machine Learning Topics (mostly Deep Learning) / AI in Medicine / Medical AR.
 - 💼 **Professional Experience:** Data Engineering at **MTU** & Data Science at **E.ON** (focus: Time Series Forecasting).
 - 🎮 **Side Quests:** I have a background in **Informatics Game Engineering**.
   - Check out my Game Jam entries: [**Desk Off**](https://pydes.itch.io/desk-off) & [**Lumi's Constellations**](https://pydes.itch.io/lumis-constellations).
 - 🧱 **Philosophy:** I like building things that are functional, scalable, and intuitive.
 
-#### ⚡ Personal & Hobbies
+#### Personal & Hobbies
 - 🐕 I have a Dog.
 - 🍵 I like tea and the occasional coffee.
 - 📺 Into anime -- There are too many good ones to pick a favorite.

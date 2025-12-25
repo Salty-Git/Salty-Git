@@ -33,6 +33,7 @@ I am currently focusing on **Computer Aided Medical Procedures** (Deep Learning,
 - 💼 **Professional Experience:** Data Engineering at **MTU** & Data Science at **E.ON** (focus: Time Series Forecasting).
 - 🎮 **Side Quests:** I have a background in **Informatics Game Engineering** and like to participate in Game Jams.
 
+Personal
 - 🐕 I have a Dog
 - 🍵 I like tea and the occasional coffee
 - 📺 Into anime -- There are too many good ones to pick a favorite

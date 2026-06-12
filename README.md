@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Juli! 👋</h1>
   <h3>Data Scientist | Medical AI Researcher | Game Dev</h3>
 
-  I am based in Germany and you could say due to past experiences I am sort of bridging the gap between data infrastructure, deep learning in medicine, and interactive media. 
+  I am based in Germany and you could say due to past experiences I am sort of sitting in-between data infrastructure, deep learning in medicine, and interactive media. 
   
   <p>
     <a href="https://www.linkedin.com/in/julian-kunert-50423424b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>

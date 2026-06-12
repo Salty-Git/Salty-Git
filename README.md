@@ -26,7 +26,7 @@ I am currently focusing on **Computer Aided Medical Procedures** (Deep Learning,
 - 🐕 I have a Dog.
 - 🍵 I like tea and the occasional coffee.
 - 📺 Into anime -- There are too many good ones to pick a favorite.
-- 🗾 Soon&trade; going to Japan to study abroad!
+- 🗾 Currently in Japan to study at Hokkaido Universiy for a Semester!
 
 ---
 

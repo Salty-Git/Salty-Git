@@ -19,14 +19,14 @@ I am currently focusing on **Computer Aided Medical Procedures** (Deep Learning,
 - 🔭 **Currently studying:** Machine Learning Topics (mostly Deep Learning) / AI in Medicine / Medical AR.
 - 💼 **Professional Experience:** Data Engineering at **MTU** & Data Science at **E.ON** (focus: Time Series Forecasting).
 - 🎮 **Side Quests:** I have a background in **Informatics Game Engineering**.
-  - Check out my Game Jam entries: [**Desk Off**](https://pydes.itch.io/desk-off) & [**Lumi's Constellations**](https://pydes.itch.io/lumis-constellations).
-- 🧱 **Philosophy:** I like building things that are functional, scalable, and intuitive.
+  - Some Game Jam entries: [**Desk Off**](https://pydes.itch.io/desk-off) & [**Lumi's Constellations**](https://pydes.itch.io/lumis-constellations).
 
 #### Personal & Hobbies
-- 🐕 I have a Dog.
-- 🍵 I like tea and the occasional coffee.
+- 🍵 I like cooking and making Chai Latte.
+- 💬 Like learning languages (currently Japanese)
+- 📷 Love doing photography, capturing Japan in my semester abroad was a blast 🗾
+- ♨️ Hotsprings and Saunas are peak!
 - 📺 Into anime -- There are too many good ones to pick a favorite.
-- 🗾 Currently in Japan to study at Hokkaido Universiy for a Semester!
 
 ---
 

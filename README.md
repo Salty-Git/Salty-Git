@@ -38,7 +38,7 @@ I am currently focusing on **Computer Aided Medical Procedures** (Deep Learning,
 - **Key Achievement:** Architected and built an automation tool that was adopted by my immediate team and later expanded to other departments to streamline data engineering processes.
 
 **Time Series Forecasting @ E.ON**
-> *Working Student (Ending soon)*
+> *Working Student*
 - Co-developed a versatile forecasting engine using `sktime`.
 - **Key Achievement:** The engine handles standard, hierarchical, and clustering-based forecasting scenarios, now utilized across the company for predictive analysis.
 
